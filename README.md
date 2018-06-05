@@ -1,0 +1,2 @@
+# frenzy
+sql query generator
